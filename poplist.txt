@@ -1,0 +1,5 @@
+가수명		곡명
+=========================
+ariana grande	greedy
+jus		s
+ariana grande	away
